@@ -1,3 +1,7 @@
+/*
+  This was me playing around with code for the first time
+*/
+
 #include<stdio.h>
 
 int main() {
